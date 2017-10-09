@@ -1613,7 +1613,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__shrink .s-header__navbar {
-  background: #fff;
+  background: rgba(180, 180, 180, 0.93);
 }
 
 .s-header__shrink .s-header__logo-img-default {
